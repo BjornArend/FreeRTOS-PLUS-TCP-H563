@@ -16,4 +16,4 @@ NOTES
 
 -All freertos/driver code is genrated by STM32CubeIDE
 
--Updated eth drivers are within the drivers inc/src folders 
+-Updated eth drivers are within the STM32H5xx_HAL_Driver/inc/stm32h5xx_hal_eth.h and STM32H5xx_HAL_Driver/src/stm32h5xx_hal_eth.c
